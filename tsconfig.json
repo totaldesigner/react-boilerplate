@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "lib": ["es2015", "dom"],
+    "jsx": "react",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "typeRoots": ["./node_modules/@types", "./typings"],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+}
