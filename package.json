@@ -107,7 +107,7 @@
     "connected-react-router": "^6.2.2",
     "core-js": "^2.6.5",
     "cuid": "^2.1.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "intl": "^1.2.5",
     "ip": "^1.1.5",
     "minimist": "^1.2.0",
